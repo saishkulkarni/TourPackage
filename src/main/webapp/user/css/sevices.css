@@ -1,0 +1,70 @@
+.heading{
+    text-align: center;
+     justify-content: center;
+    padding:0.5 0;
+    }
+    
+    .heading span{
+    font-size: 3rem;
+    background: rgba(255, 165, 0,.2);
+    color:orange;
+    border-radius: .5rem;
+    padding: .2rem 1rem;
+    }
+.login-form-container{
+        min-height: 100vh;
+        width: 100%;
+        /* background-color: rgba(0,0,0, 1); */
+        display: flex;
+        align-items: center;
+        justify-content:center;
+    
+    }
+
+
+.seer{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+}
+.card{
+    border: 2px solid white;
+    width: 270px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+}
+.card:hover{
+    border: 0.7px solid black;
+    transform: scale(1.05);
+}
+.material-symbols-outlined{
+    color: orange;
+}
+.text{
+    color: gray;
+    text-align: center;
+}
+.login-form-container{
+    background-color: rgb(254,216,177);
+}
+.card{
+    background-color: aliceblue;
+}
+#back{
+    /* background-color: black;
+    color: whitesmoke; */
+    height: 50px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }

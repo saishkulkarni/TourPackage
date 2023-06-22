@@ -1,0 +1,88 @@
+#rr{
+    border: 2px solid transparent;
+    border-bottom:2px solid black ;
+    background-color: #f6f6f6;
+      height: 80px; 
+      display: flex;
+      justify-content:space-between;
+      align-items: center;
+      font-size: 40px;
+      
+  }
+  .ma:hover{
+/* background-color: blue; */
+color: white;
+border-radius: 3%;
+
+
+
+  }
+  #aa{
+    border: 2px solid transparent;
+    height: 60px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    gap: 80px;
+    align-items: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+.button{
+    border: 2px solid transparent;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button1{
+    border: 2px solid transparent;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button2{
+    border: 2px solid transparent;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Insert{
+    color: white;
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    background-color: orange;
+    border-radius: 4px;
+    /* display: flex; */
+    /* justify-content: center;
+    gap: 3px;
+    text-decoration: none; */
+}
+.Update{
+    color: white;
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    background-color: orange;
+    border-radius: 4px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* gap: 3px; */
+}
+.Delete{
+    color: white;
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    background-color: orange;
+    border-radius: 4px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* gap: 3px; */
+}
+#ca{
+    text-decoration: none;
+}
